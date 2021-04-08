@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "783907092206",
+    "firebase_url": "https://cashtime-app.firebaseio.com",
+    "project_id": "cashtime-app",
+    "storage_bucket": "cashtime-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783907092206:android:65eed41baf646d615aa5ff",
+        "android_client_info": {
+          "package_name": "com.cashtime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANiylSfkxCEzsQdIE8Sv_6hs0zo5Qg4i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783907092206-4296024mi7cr0qlp7pmqrpmej3usvqfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cashtime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
